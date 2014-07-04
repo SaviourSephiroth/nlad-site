@@ -61,7 +61,7 @@ body {
 
 	float: right;
 	margin:0px;
-	background: transparent url(navigationSeparator.png) no-repeat left 2px;
+	background: transparent url(images/navigationSeparator.png) no-repeat left 2px;
 }
 
 .nav ul li:hover {
@@ -179,10 +179,18 @@ body {
 	text-decoration:underline;
 }
 
-#body li {
+#body ul li {
 	list-style: square;
 	font-size:12px;
 	margin-bottom: 2px;
+}
+
+#body li {
+	font-size:12px;
+}
+
+#body ul li p {
+	font-size:12px;
 }
 
 #body p {
