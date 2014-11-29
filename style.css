@@ -47,6 +47,7 @@ body {
 	float: right;
 	margin: 0px;
 	text-align: right;
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 .nav ul {
@@ -94,16 +95,19 @@ body {
 .panel h3 {
 	padding-bottom:0px;
 	margin-bottom:5px;
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 .panel h4 {
 	padding:0px;
 	margin:0px;
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 .panel h5 {
 	margin:0px;
 	padding:0px;
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 #right_panel {
@@ -152,6 +156,7 @@ body {
 	padding-top: 5px;
 	padding-bottom: 5px;
 	height: 120px;
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 #footer ul {
@@ -182,7 +187,7 @@ body {
 #body ul li {
 	list-style: square;
 	font-size:12px;
-	margin-bottom: 2px;
+	margin-bottom: 5px;
 }
 
 #body li {
@@ -198,9 +203,15 @@ body {
 }
 
 #body h5 {
-border-top: 2px solid #d9d8d7;
-
+border-top: 1px solid #d9d8d7;
+padding-top: 5px;
+font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
+
+#body h2 {
+	font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
+}
+
 .copyright {
 	float:right;
 	color:#cccccc;
