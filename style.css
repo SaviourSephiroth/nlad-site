@@ -56,8 +56,6 @@ body {
 }
 
 .nav ul li {
-	
-
 	float: right;
 	margin:0px;
 	background: transparent url(images/navigationSeparator.png) no-repeat left 2px;
@@ -79,7 +77,6 @@ body {
 	font-size: 12px;
 	line-height: 20px;
 }
-
 
 #body {
 	clear:both;
@@ -113,7 +110,7 @@ body {
 #right_panel {
 	float:left;
 	padding-left: 20px;
-	padding-top: 20px;
+	padding-top: 10px;
 	width: 240px;
 }
 
@@ -129,12 +126,11 @@ body {
 
 .snippet a:hover {
 	text-decoration:underline;
-
 	color:black;
 }
 
 .snip_title {
-	background-color:#252462;
+	background-color:#7493B2;
 	color:white;
 	font-weight:bold;
 	font-size: 14px;
@@ -143,7 +139,7 @@ body {
 }
 
 .snip_body {
-	background-color: #bfbfbf;
+	background-color:#B9E1E2;
 	font-size:12px;
 	padding:5px;
 	display:block;
@@ -223,7 +219,7 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 
 #learnMore {
 	
-	background-color:#252462;
+	background-color:#579584;
 	color:white;
 	border: 2px solid #d9d8d7;
 	padding: 5px;
@@ -239,4 +235,53 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 #learnMore a:hover {
 	text-decoration:underline;
 	font-weight:bold;
+}
+
+.course-header-group {
+	clear:both;
+}
+
+.course-header {
+	float:left;
+	text-align:center;
+	width: 300px;
+	
+	padding:20px;
+	font-weight:bold;
+	margin:2px;
+	color:white;
+}
+
+.course-body-group {
+	clear:both;
+}
+
+.course-body {
+	float:left;
+	text-align:left;
+	padding:20px;
+	width: 300px;
+	margin:2px;
+}
+
+.min-requirements {
+	clear:both;
+	padding-top: 10px;
+}
+
+#classroom {
+	background-color: #8D2048;
+
+}
+
+#classroom-live {
+	background-color: #669900;
+}
+
+#classroom-body {
+	background-color: #CE98AA;
+}
+
+#classroom-live-body {
+	background-color: #A3C266;	
 }

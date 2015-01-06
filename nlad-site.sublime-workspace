@@ -372,26 +372,42 @@
 	"buffers":
 	[
 		{
-			"file": "/d/Projects/nlad-site/index.html",
+			"file": "/d/Projects/nlad-site/index.php",
 			"settings":
 			{
-				"buffer_size": 4893,
+				"buffer_size": 802,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/d/Projects/nlad-site/discoveracca.html",
+			"file": "/d/Projects/nlad-site/style.css",
 			"settings":
 			{
-				"buffer_size": 7020,
+				"buffer_size": 3371,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/d/Projects/nlad-site/accamembership.html",
+			"file": "discoveracca.php",
 			"settings":
 			{
-				"buffer_size": 5041,
+				"buffer_size": 815,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "accamembership.php",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "courses.php",
+			"settings":
+			{
+				"buffer_size": 804,
 				"line_ending": "Windows"
 			}
 		},
@@ -404,27 +420,29 @@
 			}
 		},
 		{
-			"file": "/d/Projects/nlad-site/style.css",
+			"file": "/d/Projects/nlad-site/php/footer.php",
 			"settings":
 			{
-				"buffer_size": 3375,
+				"buffer_size": 618,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/d/Projects/nlad-site/students.html",
+			"file": "php/rightpanel.php",
 			"settings":
 			{
-				"buffer_size": 7993,
-				"line_ending": "Windows"
+				"buffer_size": 1339,
+				"line_ending": "Windows",
+				"name": "<?php"
 			}
 		},
 		{
-			"file": "contact.html",
+			"file": "php/menu.php",
 			"settings":
 			{
-				"buffer_size": 3088,
-				"line_ending": "Windows"
+				"buffer_size": 322,
+				"line_ending": "Windows",
+				"name": "<?php"
 			}
 		}
 	],
@@ -468,6 +486,21 @@
 	},
 	"file_history":
 	[
+		"/D/Projects/nlad-site/php/courses.php",
+		"/D/Projects/nlad-site/contact.php",
+		"/d/Projects/nlad-site/contact.html",
+		"/D/Projects/nlad-site/php/contact.php",
+		"/D/Projects/nlad-site/students.php",
+		"/D/Projects/nlad-site/php/discoveracca.php",
+		"/d/Projects/nlad-site/discoveracca.html",
+		"/d/Projects/nlad-site/accamembership.html",
+		"/d/Projects/nlad-site/courses.html",
+		"/d/Projects/nlad-site/students.html",
+		"/D/Projects/nlad-site/contact.html",
+		"/d/Projects/nlad-site/index.html",
+		"/D/Projects/nlad-site/php/footer.php",
+		"/D/Projects/nlad-site/php/header.php",
+		"/D/Projects/nlad-site/php/home.php",
 		"/D/Projects/nlad-site/nlad-site.sublime-project",
 		"/d/projects/cctd/src/states/game.js",
 		"/d/projects/cctd/src/game/firetest.js",
@@ -580,22 +613,7 @@
 		"/Users/adamwhiteland/Documents/Development/js/website/js/system/weather.js",
 		"/Users/adamwhiteland/Documents/Development/js/website/engine/Playground/views/index.ejsh",
 		"/Users/adamwhiteland/Documents/Development/js/website/engine/Playground/playground.js",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/quickstart.sh",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/engine/Source/engine.js",
-		"/Users/adamwhiteland/Downloads/EaselJS-release_v0.7.1/src/easeljs/geom/Matrix2D.js",
-		"/Users/adamwhiteland/Downloads/EaselJS-release_v0.7.1/src/createjs/events/EventDispatcher.js",
-		"/Users/adamwhiteland/Downloads/EaselJS-release_v0.7.1/src/createjs/events/Event.js",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/engine/Source/collision/collisiongrid.js",
-		"/Users/adamwhiteland/Documents/Development/js/website/js/weather.js",
-		"/Users/adamwhiteland/Documents/Development/js/website/js/time.js",
-		"/Users/adamwhiteland/Documents/Development/js/website/js/weathersystem.js",
-		"/Users/adamwhiteland/Documents/Development/js/cannonquest/game/src/entities/ship.js",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/engine/Source/collision/collisionsystem.js",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/engine/Source/collision/boundingbox.js",
-		"/Users/adamwhiteland/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/adamwhiteland/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/adamwhiteland/Documents/Development/js/website/style.css",
-		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/engine/Source/rendering/color.js"
+		"/Users/adamwhiteland/Documents/Development/js/pow-pow-penguin/quickstart.sh"
 	],
 	"find":
 	{
@@ -730,23 +748,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/d/Projects/nlad-site/index.html",
+					"file": "/d/Projects/nlad-site/index.php",
 					"settings":
 					{
-						"buffer_size": 4893,
+						"buffer_size": 802,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4539,
-								4539
+								0,
+								802
 							]
 						],
 						"settings":
@@ -755,67 +773,121 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1409.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/d/Projects/nlad-site/discoveracca.html",
+					"file": "/d/Projects/nlad-site/style.css",
 					"settings":
 					{
-						"buffer_size": 7020,
+						"buffer_size": 3371,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6666,
-								6666
+								925,
+								925
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2594.0,
+						"translation.y": 885.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/d/Projects/nlad-site/accamembership.html",
+					"file": "discoveracca.php",
 					"settings":
 					{
-						"buffer_size": 5041,
+						"buffer_size": 815,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4687,
-								4687
+								0,
+								815
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1679.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
+					"file": "accamembership.php",
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "courses.php",
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
 					"file": "/d/Projects/nlad-site/courses.html",
 					"settings":
 					{
@@ -826,8 +898,8 @@
 						"selection":
 						[
 							[
-								6129,
-								6129
+								869,
+								4464
 							]
 						],
 						"settings":
@@ -836,7 +908,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2579.0,
+						"translation.y": 1794.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -848,82 +920,82 @@
 			"sheets":
 			[
 				{
-					"buffer": 4,
-					"file": "/d/Projects/nlad-site/style.css",
-					"settings":
-					{
-						"buffer_size": 3375,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1757,
-								1757
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1470.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/d/Projects/nlad-site/students.html",
-					"settings":
-					{
-						"buffer_size": 7993,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7639,
-								7639
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3674.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
 					"buffer": 6,
-					"file": "contact.html",
+					"file": "/d/Projects/nlad-site/php/footer.php",
 					"settings":
 					{
-						"buffer_size": 3088,
+						"buffer_size": 618,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2734,
-								2734
+								598,
+								598
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1064.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "php/rightpanel.php",
+					"settings":
+					{
+						"buffer_size": 1339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1336,
+								1336
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "php/menu.php",
+					"settings":
+					{
+						"buffer_size": 322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -959,7 +1031,7 @@
 		"cols":
 		[
 			0.0,
-			0.519719251337,
+			0.521409455843,
 			1.0
 		],
 		"rows":
