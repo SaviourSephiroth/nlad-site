@@ -50,15 +50,16 @@ body {
 }
 
 .nav ul {
-	float: right;
+	float: left;
 	list-style: none;
 	margin: 0px;
+	padding:0px;
 }
 
 .nav ul li {
 	float: right;
 	margin:0px;
-	background: transparent url(images/navigationSeparator.png) no-repeat left 2px;
+	background: transparent url(images/navigationSeparator.png) no-repeat right 2px;
 }
 
 .nav ul li:hover {
@@ -284,4 +285,23 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 
 #classroom-live-body {
 	background-color: #A3C266;	
+}
+
+#course-overview {
+	clear:both;
+	padding-top: 10px;
+}
+
+.indent {
+	padding-left: 20px;
+	margin-bottom: 20px;
+}
+
+.form-holder {
+	background-color:#B9E1E2;
+	padding:15px;
+}
+
+.answer {
+	margin-bottom: 5px;
 }
