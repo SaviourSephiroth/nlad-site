@@ -15,11 +15,17 @@ echo '
 			<option>Other</option>
 		</select>
 		<div class="label">First Name: </div>
-		<div class="answer"> <input></input></div>
+		<div class="answer"><input></input></div>
 		<div class="label">Surname: </div>
-		<div class="answer"> <input></input></div>
-
-		<div class="label">By clicking submit you are agreeing to the Terms and Conditions set out by NLAC which can be read <a href="tandc">here</a> </div>
+		<div class="answer"><input></input></div>
+		<div class="label">E-mail address:</div>
+		<div class="answer"><input></input></div>
+		<div class="label">Which course are you interested in:</div>
+		<select class="answer">
+			<option>Online Classroom</option>
+			<option>Online Classroom Live</option>
+		</select>
+		<div class="label">By clicking submit you are agreeing to the Terms and Conditions set out by NLAC which can be read <a href="tandc">here</a></div>
 
 		<input type="submit" value="Submit">
 	</form>
