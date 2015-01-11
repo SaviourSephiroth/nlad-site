@@ -14,10 +14,12 @@ echo '
 			<option>Dr</option>
 			<option>Other</option>
 		</select>
+		
 		<div class="label">First Name: </div>
 		<div class="answer"><input></input></div>
 		<div class="label">Surname: </div>
 		<div class="answer"><input></input></div>
+
 		<div class="label">E-mail address:</div>
 		<div class="answer"><input></input></div>
 		<div class="label">Which course are you interested in:</div>
@@ -25,7 +27,9 @@ echo '
 			<option>Online Classroom</option>
 			<option>Online Classroom Live</option>
 		</select>
-		<div class="label">By clicking submit you are agreeing to the Terms and Conditions set out by NLAC which can be read <a href="tandc">here</a></div>
+		<div class="label">Anything else you want to tell us?</div>
+		<div class="answer"><textarea rows="10" cols="50"></textarea></div>
+		<p class="label">By clicking submit you are agreeing to the Terms and Conditions set out by NLAC which can be read <a href="tandc">here</a></p>
 
 		<input type="submit" value="Submit">
 	</form>

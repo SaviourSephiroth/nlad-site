@@ -293,7 +293,8 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 .indent {
-	padding-left: 20px;
+	padding-top: 20px;
+	padding-left: 40px;
 	margin-bottom: 20px;
 }
 
@@ -304,4 +305,24 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 
 .answer {
 	margin-bottom: 5px;
+}
+
+.label {
+	font-size:12px;
+	font-weight:bold;
+	margin-top:10px;
+}
+
+table {
+	width: 500px;
+	border: 1px solid black;
+	border-collapse:collapse;
+}
+td {
+	border:1px solid black;
+	padding:5px;
+}
+
+.bold {
+	font-weight: bold;
 }
