@@ -54,7 +54,7 @@
 
 		<div class=\'min-requirements\'>
 			<h3>Minimum Specifications</h3>
-			<p>All courses require students to have a computer with the below minimum specifications. For more information on computer specifications and best practices please see the <a href="BPP"> BPP website</a>:</p>
+			<p>All courses require students to have a computer with the below minimum specifications. For more information on computer specifications and best practices please see the <a href="BPP"> BPP website</a>.</p>
 			<p>This is what we recommend as a minimum. However, it may be possible to view the lessons with a computer that has specifications that aren\'t at this level. Please note that BPP does not recommend you change any of these settings without first contacting your company\'s IT department if you\'re using a work computer and will not be held liable for any problems that result.
 			</p>
 			<p> There are no specific hardware requirements for the computer you use to study online. However, if you experience problems you should review the list below and compare it with your computer specifications. This is what we recommend as minimum requirements. Note that you may be able to study effectively using a computer at a lower specification.
