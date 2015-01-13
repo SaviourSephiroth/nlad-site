@@ -23,7 +23,6 @@
 			<div class=\'course-body\' id=\'classroom-body\'>
 				<ul>
 					<li>Up-to-date materials</li>
-					<li>Supported by BPP</li>
 					<li>Study in your own time at a pace that suits you</li>
 					<li>Review the online classes as often as you like</li>
 					<li>Online videos covering all ACCA approved content for all 16 ACCA papers</li>
@@ -35,8 +34,13 @@
 			</div>
 			<div class=\'course-body\' id=\'classroom-live-body\'>
 				<ul>
-					<li> </li>
-					<li> </li>
+					<li>Up-to-date materials</li>
+					<li>A structured and timetabled course</li>
+					<li>Live and engaging, interactive webinars</li>
+					<li>Expert tutors</li>
+					<li>Supported by BPP</li>
+					<li>Webinars are recorded so you can watch any you miss</li>
+					<li>Includes a comprehensive library of pre-recorded lectures</li>
 				</ul>
 				<p id="learnMore">
 					<a href="contact.php">Learn more</a>
