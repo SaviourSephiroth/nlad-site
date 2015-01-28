@@ -2,7 +2,7 @@
  	echo '
  		<h2>OUR COURSES</h2>
  		<div>
- 			<p>With NLAC you can choose to study in your own time at a pace that suits you with flexible modular courses that covers all 16 ACCA papers. Take a look at the options below and if you\'re interested in joining, please use the contact form which can be found on our <a href="contact.php">Contact page</a></p>
+ 			<p>With NLAC you can choose to study in your own time at a pace that suits you with flexible modular courses that covers all 16 ACCA papers. Take a look at the options below and if you\'re interested in joining, please use the contact us: <a href="contact.php">Contact page</a></p>
  			
 
  			<ul>
