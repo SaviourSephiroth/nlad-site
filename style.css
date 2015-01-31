@@ -227,13 +227,12 @@ font-family: 'Roboto Condensed', Helvetica, Verdana, Arial, sans;
 }
 
 #learnMore {
-	
-	background-color:#579584;
 	color:white;
 	border: 2px solid #d9d8d7;
 	padding: 5px;
-	width: 90px;
+	width: 200px;
 	text-align:center;
+	box-shadow: 3px 3px 3px #888888;
 }
 
 #learnMore a {
@@ -371,3 +370,5 @@ textarea.parsley-error {
 .parsley-errors-list.filled {
   opacity: 1;
 }
+
+#flashContent { width:100%; height:100%; }

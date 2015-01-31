@@ -1,13 +1,17 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<meta charset="utf-8" />
 		<title> Nagin Lad Accountancy College : Courses</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 		<link rel="shortcut icon" href="images/favicon.png">
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
 		<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+		<meta name="keywords" content="acca, nlac, accountancy, courses"/>
+
 	</head>
 	<body>
+		<?php include_once("php/analyticstracking.php") ?>
 		<div id="header">
 			<?php include 'php/header.php'; ?>
 		</div>

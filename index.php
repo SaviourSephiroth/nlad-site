@@ -1,14 +1,18 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<meta charset="utf-8" />
 		<title> Nagin Lad Accountancy College : Home</title>
 		<link rel="stylesheet" type="text/css" href="style.css" />
 		<link rel="shortcut icon" href="images/favicon.png">
 		<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
 		<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+		<meta name=”description” content=”Nagin Lad Accountancy College, a worldwide, expert led ACCA tuition provider”/>
+		<meta name="keywords" content="acca, nlac, accountancy, courses"/>
 	</head>
 	<body>
-		<div id="header">
+		<?php include_once("php/analyticstracking.php") ?>
+		<div id="header">	
 			<?php include 'php/header.php'; ?>
 		</div>
 		<div class="nav">

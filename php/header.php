@@ -14,8 +14,8 @@
 					<param name="devicefont" value="false" />
 					<param name="salign" value="" />
 					<param name="allowScriptAccess" value="sameDomain" />
-					<a href="http://www.adobe.com/go/getflash">
-						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+					<a href="contact.php" target="_self">
+						<img src="images/banner_728x90.jpg"/>
 					</a>
 				</object>
 			</div>';
