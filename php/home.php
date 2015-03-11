@@ -1,8 +1,31 @@
 <?php
+	libxml_use_internal_errors(true);
+	try 
+	{
+		$ch = curl_init();
+		curl_setopt($ch, CURLOPT_URL, "http://accanlac.blogspot.com/feeds/posts/default");
+		curl_exec($ch);
+		
+
+		$blog = new SimpleXMLElement($ch);
+
+		curl_close($ch);
+	}
+	catch(Exception $e) 
+	{
+
+	}
+
+
 	echo '<h2>HOME</h2>
 				<p>NLAC is a newly established ACCA tuition provider. Founded by Mr Nagin Lad BA MSc MAAT FCCA. The college is dedicated to providing the highest quality tuition through tutors that have both practical and teaching experience.</p>
 
 				<p> Within this website you will find information on our course, tutors and facilities. For any other information or enquiries please feel free to contact us at <mailto>enquiries@naginlad.com</mailto>. Alternatively visit the contact page to find more ways of getting in touch.</p>
+
+				<h3>Blog</h3>
+				<div id="blog">
+										
+				</div>
 
 				<h3>Nagin Lad</h3>
 				<h5>Founder and Managing Director of Nagin Lad Accountancy College Ltd</h5>

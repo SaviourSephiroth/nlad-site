@@ -19,8 +19,7 @@
 			<?php include 'php/menu.php'; ?>
 		</div>
 
-		<div id="body">
-			
+		<div id="body">		
 			<div class="panel" id="panel">
 				<?php include 'php/home.php'; ?>
 			</div>
