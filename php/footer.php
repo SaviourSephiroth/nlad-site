@@ -1,6 +1,7 @@
 <?php
 	echo '<ul>
 				<li><a href="index.php">Home</a></li>
+				<li><a href="about.php">About us</a></li>
 				<li><a href="courses.php">Our Courses</a></li>
 				<li><a href="contact.php">Contact</a></li>
 				

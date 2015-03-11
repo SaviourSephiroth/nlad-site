@@ -371,4 +371,65 @@ textarea.parsley-error {
   opacity: 1;
 }
 
+.blog {
+	padding:10px;
+	background-color:#f3f3f3;
+	width: 400px;
+	margin:0 auto;
+	
+	-moz-box-shadow: 3px 3px 4px #AAA;
+	
+	-webkit-box-shadow: 3px 3px 4px #AAA;
+	
+	box-shadow: 3px 3px 4px #AAA;
+	
+	
+}
+
+.blog-title {
+	font-weight:bolder;
+	padding-bottom: 5px;
+	font-size:24px;
+	color: #323232;
+}
+
+.blog-content {
+	font-size: 14px;
+	padding: 10px;
+	background-color:white;
+}
+
+.blog-date {
+	font-weight:bolder;
+	font-size:10px;
+	padding:5px;
+	border:1px solid #d9d8d7;
+	background-color:#e5f2e5;
+	margin-bottom:15px;
+	display:inline-block;
+}
+.blog-author {
+	font-weight:bolder;
+	font-size:10px;
+	padding:5px;
+	border:1px solid #d9d8d7;
+	background-color:#b2e2ff;
+	margin-bottom:15px;
+	margin-left:5px;
+	display:inline-block;
+}
+
+.blog-hashtag {
+	display:inline-block;
+	font-weight:bolder;
+	font-size:9px;
+	padding:5px;
+	border:1px solid #d9d8d7;
+	background-color:#EEE5DE;
+	margin-bottom:15px;
+	margin-right:5px;
+	margin-top:10px;
+}
+
+
 #flashContent { width:100%; height:100%; }
